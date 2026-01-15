@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Rating,Review_Count,Price
+P101,Smartphone,Electronics,4.5,120,15999
+P102,Headphones,Electronics,4.2,85,2499
+P103,Mixer Grinder,Home Appliances,3.8,60,3499
+P104,Shoes,Fashion,4.7,150,2999
+P105,Backpack,Fashion,3.5,40,1499
+P106,Laptop,Electronics,4.6,200,55999
+P107,Smartwatch,Electronics,4.1,95,3999
+P108,Microwave Oven,Home Appliances,4.0,70,8999
+P109,T-Shirt,Fashion,3.9,110,799
+P110,Refrigerator,Home Appliances,4.4,130,24999
+P111,Air Conditioner,Home Appliances,4.3,160,37999
+P112,Wireless Mouse,Electronics,4.2,140,999
+P113,Jeans,Fashion,4.0,90,1999
+P114,Water Purifier,Home Appliances,4.1,75,12499
+P115,Power Bank,Electronics,3.7,65,1299
